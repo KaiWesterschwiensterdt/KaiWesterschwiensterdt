@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KaiWesterschwiensterdt
 - 👀 I’m interested in ... programming, sports
-- 🌱 I’m currently learning ... Webdevelopment
+- 🌱 I’m currently learning ... web development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... u can't reach me 
+- 📫 How to reach me ... answer with "general kenobi"
 
 <!---
 KaiWesterschwiensterdt/KaiWesterschwiensterdt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
