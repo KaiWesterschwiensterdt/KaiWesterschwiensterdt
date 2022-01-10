@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaiWesterschwiensterdt
 - 👀 I’m interested in ... programming, sports
-- 🌱 I’m currently learning ... web development
+- 🌱 I’m currently learning ... web developing and blockchain development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... answer with "general kenobi"
 
